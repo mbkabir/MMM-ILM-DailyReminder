@@ -1,0 +1,18 @@
+.MMM-ILM-DailyReminder .reminder-text {
+	line-height: 1.25;
+	word-break: break-word;
+}
+
+.MMM-ILM-DailyReminder .error {
+	color: #ff6666;
+}
+
+.MMM-ILM-DailyReminder .meta { 
+	color:#fff; 
+	text-align: left;
+}
+
+.MMM-ILM-DailyReminder  .label { 
+	font-weight:600; 
+}
+

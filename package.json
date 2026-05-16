@@ -1,0 +1,26 @@
+{
+  "name": "MMM-ILM-DailyReminder",
+  "version": "1.0.0",
+  "description": "A lightweight [MagicMirror²] module that shows a daily reminder from reminder.dev",
+  "main": "MMM-ILM-DailyReminder.js",
+  "keywords": [
+	 "MagicMirror",
+	 "Module",
+	 "Daily Reminder",
+	 "Hadith",
+	 "Quran Verse",
+	 "Reflection",
+	 "ILM",
+	 "Knowledge"	 
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdbkabirbd/MMM-ILM-DailyReminder"
+  },
+  "author": "MD. B. Kabir",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "dompurify": "^3.3.3"
+  }
+}
