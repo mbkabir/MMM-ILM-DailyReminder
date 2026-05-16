@@ -6,6 +6,7 @@ Position: bottom_bar
 ![Bottom Bar Display](images/bottom_bar_display.png)
 
 Position: bottom_left
+![Bottom Bar Display](images/bottom_left_display.png)
 
 ## Requirements
 - MagicMirror²
